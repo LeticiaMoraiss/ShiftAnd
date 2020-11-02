@@ -1,0 +1,5 @@
+São apenas três arquivos:
+
+conio.c     -> deve ser inserido na pasta C:\Dev-Cpp\include
+conio.h     -> deve ser inserido na pasta C:\Dev-Cpp\include
+libconio.a  -> deve ser inserido na pasta C:\Dev-Cpp\lib
